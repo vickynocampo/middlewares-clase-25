@@ -28,7 +28,6 @@ const adminRoutes = require('./routes/adminRoutes');
 app.use('/', mainRouter);
 app.use('/admin', adminRoutes);
 
-
 // ************ DON'T TOUCH FROM HERE ************
 // ************ catch 404 and forward to error handler ************
 app.use((req, res, next) => next(createError(404)));

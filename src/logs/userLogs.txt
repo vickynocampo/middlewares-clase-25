@@ -71,3 +71,13 @@ El usuario ingresó a la ruta:/
 El usuario ingresó a la ruta:/
 El usuario ingresó a la ruta:/admin
 El usuario ingresó a la ruta:/admin?user=Ada
+El usuario ingresó a la ruta:/admin?user=vicky
+El usuario ingresó a la ruta:/
+El usuario ingresó a la ruta:/
+El usuario ingresó a la ruta:/admin
+El usuario ingresó a la ruta:/admin/ada
+El usuario ingresó a la ruta:/admin?user=Ada
+El usuario ingresó a la ruta:/admin?user=Vim
+El usuario ingresó a la ruta:/admin?user=Vima
+El usuario ingresó a la ruta:/admin?user=Vimass
+El usuario ingresó a la ruta:/admin?user=Vim

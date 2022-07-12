@@ -3,10 +3,8 @@ const path = require('path');
 
 const controller = {
     dashboard: (req, res) => {
-        let userQuery = req.query.user;
-        res.send("Hola Admin:" + userQuery)
-        
-
+        let queryUser = req.query.user;
+        res.send("Hola Admin:" + queryUser)
     }
 }
 

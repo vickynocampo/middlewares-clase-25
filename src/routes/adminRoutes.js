@@ -4,9 +4,9 @@ const router = express.Router();
 
 // ************ Controller Require ************
 const adminController = require('../controllers/adminController');
-//Middleware
-const adminMiddleware = require("../middlewares/adminMiddleware")
 
+// ************ Middleware Require ************
+const adminMiddleware = require("../middlewares/adminMiddleware")
 
 router.get('/', adminMiddleware, adminController.dashboard ); //
 
